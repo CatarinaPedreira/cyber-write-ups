@@ -18,11 +18,11 @@ Easy
 
 ## Steps:
 
-* Start the AttackBox. Alternatively, OpenVPN cam be used to connect to the target machine.
+* Start the AttackBox. Alternatively, OpenVPN can be used to connect to the target machine.
 
 * Initialize the target machine (it takes around one minute to configure)
 
-* Inside the AttackBox, paste the target machine IP address (the one presented in your page) in the Firefox browser.
+* Inside the AttackBox, paste the target machine IP address (the one presented in your page) in the Firefox browser. If you are using OpenVPN, after you have connected to TryHackMe's network, paste the IP address in your own browser.
 
 * Capture the flag! 
 
