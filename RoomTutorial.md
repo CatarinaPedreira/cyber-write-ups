@@ -1,10 +1,10 @@
 
-## TryHackMe Room Tutorial
+# TryHackMe Room Tutorial
 
-# Description: 
+## Description: 
 The first tutorial of an Offensive Pentesting course by TryHackMe.
 
-# Level:
+## Level:
 Easy
 
 07 July 2021, Catarina Pedreira
@@ -16,7 +16,7 @@ Easy
 - IP address of target: 10.10.228.3
 
 
-# Steps:
+## Steps:
 
 * Start the AttackBox. Alternatively, OpenVPN cam be used to connect to the target machine.
 
