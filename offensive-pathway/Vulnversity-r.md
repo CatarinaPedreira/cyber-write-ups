@@ -1,20 +1,20 @@
-## TryHackMe Vulnversity 
+# TryHackMe Vulnversity 
 
-# Description:
+## Description:
 As part of the "Getting started" rooms, this room is focused on teaching about active recon, web app attacks and privilege escalation.
 
-# Level:
+## Level:
 Easy
 
 04 August 2021, Catarina Pedreira
 -------------------------------
 
-# Known information:
+## Known information:
 - Vulnerable machine title: VulnUniversity
 - Vulnerable machine IP: 10.10.162.194 (for my machine, substitute with the correct IP for yours)
 
 
-# Steps:
+## Steps:
 - Start your AttackBox (or connect to the target machine through OpenVPN)
 
 Reconnaissance:
